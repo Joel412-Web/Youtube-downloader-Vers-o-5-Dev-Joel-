@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Youtube Downloader", "Youtube Downloader\Youtube Downloader.csproj", "{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Instalador Versão 5", "Instalador\Instalador Versão 5\Instalador Versão 5.vdproj", "{F5927FC0-7DBF-477A-9279-6AF7762B19B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Debug|x64.ActiveCfg = Debug|x64
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Debug|x64.Build.0 = Debug|x64
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Release|x64.ActiveCfg = Release|x64
+		{3F5F71A8-EF80-4E27-B258-6BC3F7A09A1B}.Release|x64.Build.0 = Release|x64
+		{F5927FC0-7DBF-477A-9279-6AF7762B19B6}.Debug|Any CPU.ActiveCfg = Debug
+		{F5927FC0-7DBF-477A-9279-6AF7762B19B6}.Debug|x64.ActiveCfg = Debug
+		{F5927FC0-7DBF-477A-9279-6AF7762B19B6}.Release|Any CPU.ActiveCfg = Release
+		{F5927FC0-7DBF-477A-9279-6AF7762B19B6}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {647A1665-F243-40E3-ACBA-B5AD237BA312}
+	EndGlobalSection
+EndGlobal

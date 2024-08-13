@@ -1,0 +1,82 @@
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Youtube Downloader.exe.config
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Youtube Downloader.exe
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Youtube Downloader.pdb
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube_Downloader.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.exe
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.pdb
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\AngleSharp.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\CliWrap.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Memory.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.Converter.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.dll
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\AngleSharp.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\CliWrap.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Memory.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.Converter.xml
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.exe.config
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube .F1323AD3.Up2Date
+C:\Users\HP\Desktop\C#\Download\Versão 1\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube_Downloader.frDown.resources
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Youtube Downloader.exe.config
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Youtube Downloader.exe
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Youtube Downloader.pdb
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\AngleSharp.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\CliWrap.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Memory.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encodings.Web.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Json.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.ValueTuple.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.Converter.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.dll
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\AngleSharp.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\CliWrap.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Buffers.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Memory.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Numerics.Vectors.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Encodings.Web.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Text.Json.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\System.ValueTuple.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\bin\x64\Debug\YoutubeExplode.Converter.xml
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.exe.config
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube_Downloader.frDown.resources
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube_Downloader.Properties.Resources.resources
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube .F1323AD3.Up2Date
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.exe
+C:\Users\HP\Desktop\C#\Download\Versão 5\Youtube Downloader\Youtube Downloader\obj\x64\Debug\Youtube Downloader.pdb
